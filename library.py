@@ -5,7 +5,7 @@ from typing import Optional
 
 LOAN_DAYS = 14
 MAX_BOOKS_PER_MEMBER = 3
-FINE_PER_DAY = 10  # rupees
+FINE_PER_DAY = 5  # rupees
 
 
 class LibraryError(Exception):
